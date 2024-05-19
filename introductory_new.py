@@ -22,3 +22,10 @@ b = float(2)
 c = float(3)
 x = (a + b + c) / 3
 print(str(x))
+
+
+a = 4
+b = 5
+c = 7
+f = (a * b) + (a * c)
+print((f ** 3) / 2)
